@@ -40,7 +40,7 @@ We're here to prime the pump.
 
 ## How to Get Started?
 
-If you're new to OSGi we suggest you follow the [quick start tutorial](200-quick-start.html) and then the more [complete tutorial](220-tutorial-base.html). If you're already into OSGi, you can check out the [principles section](300-principles.html) and then the [data sheets](400-services.html).
+If you're new to OSGi we suggest you follow the [quick start tutorial](200-quick-start.html) and then the more [complete tutorial](220-tutorial-base.html). If you're already into OSGi, you can check out the [data sheets](400-services.html).
 
 [enroute-doc]: https://github.com/osgi/osgi.enroute.site
 

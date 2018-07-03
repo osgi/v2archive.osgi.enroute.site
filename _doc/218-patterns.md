@@ -3,7 +3,7 @@ title: Patterns
 summary: OSGi Patterns
 layout: tutorial
 lprev: 217-ds.html
-lnext: 300-principles.html
+lnext: /book/210-doc.html
 ---
 
 There are a number of patterns used in OSGi systems.
