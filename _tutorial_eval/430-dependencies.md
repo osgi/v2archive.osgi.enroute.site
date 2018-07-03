@@ -244,7 +244,7 @@ We can then run the application:
 	  / _ \ '_ \| |_) / _ \| | | | __/ _ \
 	 |  __/ | | |  _ < (_) | |_| | |_  __/
 	  \___|_| |_|_| \_\___/ \__,_|\__\___|
-	              http://enroute.osgi.org/
+	              https://v2archive.enroute.osgi.org
 	G! eval sin(pi)
 	1.2246467991473532E-16
 	G! eval cos(pi)

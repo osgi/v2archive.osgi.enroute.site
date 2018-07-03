@@ -89,7 +89,7 @@ We can now run the command by clicking on the `Debug` icon at the top right:
 	  / _ \ '_ \| |_) / _ \| | | | __/ _ \
 	 |  __/ | | |  _ < (_) | |_| | |_  __/
 	  \___|_| |_|_| \_\___/ \__,_|\__\___|
-	              http://enroute.osgi.org/
+	              https://v2archive.enroute.osgi.org
 	              
 	G! eval:expr "1 + sqrt(4)"
 	3.0

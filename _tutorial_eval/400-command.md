@@ -224,7 +224,7 @@ JAR.
 	  / _ \ '_ \| |_) / _ \| | | | __/ _ \
 	 |  __/ | | |  _ < (_) | |_| | |_  __/
 	  \___|_| |_|_| \_\___/ \__,_|\__\___|
-	              http://enroute.osgi.org/
+	              https://v2archive.enroute.osgi.org
 	
 	              
 	G! eval 3 + 4

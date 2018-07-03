@@ -233,7 +233,7 @@ An example of headers that work:
 	Bundle-License: 		http://opensource.org/licenses/apache2.0.php; \
 	                			link="http://www.apache.org/licenses/LICENSE-2.0"; \
 	                			description="Apache License, Version 2.0"
-	Bundle-DocURL:    		http://enroute.osgi.org/
+	Bundle-DocURL:    		https://v2archive.enroute.osgi.org
 	Bundle-SCM:       		url=https://github.com/osgi/osgi.enroute, \
 	                  			connection=scm:git:https://github.com/osgi/osgi.enroute.git, \
 	                  			developerConnection=scm:git:git@github.com:osgi/osgi.enroute.git
