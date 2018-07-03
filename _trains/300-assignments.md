@@ -55,4 +55,4 @@ This is not a quiz or school exam. We love OSGi and this Contest is just a way t
 
 Have fun and keep us posted on the [forum][forum]!
 
-[forum]: http://enroute.osgi.org/trains/900-forum.html
+[forum]: /trains/900-forum.html

@@ -133,13 +133,13 @@ VAADIN is a very nice library for Java developers that want to stay in Java for 
  
 [1]: https://github.com/osgi/osgi.enroute.bundles/tree/master/osgi.enroute.easse.simple.adapter 
 [2]: https://www.w3.org/TR/2011/WD-eventsource-20110208/
-[3]: http://enroute.osgi.org/services/osgi.enroute.easse.html
+[3]: /services/osgi.enroute.easse.html
 [4]: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
-[5]: http://enroute.osgi.org/services/osgi.enroute.rest.api.html
+[5]: /services/osgi.enroute.rest.api.html
 [6]: https://github.com/osgi/osgi.enroute.examples/blob/master/osgi.enroute.examples.rest.application/src/osgi/enroute/examples/rest/application/RestApplication.java
-[7]: http://enroute.osgi.org/services/osgi.enroute.scheduler.api.html
+[7]: /services/osgi.enroute.scheduler.api.html
 [8]: http://felix.apache.org/documentation/subprojects/apache-felix-web-console.html
-[9]: http://enroute.osgi.org/services/osgi.enroute.webserver.capabilities.html
+[9]: /services/osgi.enroute.webserver.capabilities.html
 [10]: https://github.com/osgi/osgi.enroute.examples/tree/master/osgi.enroute.examples.webserver.application
 [11]: https://github.com/osgi/osgi.enroute.examples/tree/master/osgi.enroute.examples.webserver.webresource
 [12]: /tutorial_iot/050-start.html

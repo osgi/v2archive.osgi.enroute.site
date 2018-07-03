@@ -18,7 +18,7 @@ In this quick start we learn how to _wrap_ a JAR to become a Bundle. Wrapping a 
 
 This tutorial teaches the wrapping from the perspective of a Bndtools user. For any command line zealots this should not be too hard to map to `vi` since all we do is write a `bnd.bnd` file in Bndtools, which is also usable in for example Maven. The key advantage of Bndtools is that it shows you the missing packages interactively. If you want to stay on the command line, then you could take a look at [bnd Wrapping](http://bnd.bndtools.org/chapters/390-wrapping.html).
 
-In the coming chapters it is assumed you have a workspace ready. If you've no clue what we're talking about suggest you follow the [Quick Start Tutorial](http://enroute.osgi.org/qs/050-start.html) first.
+In the coming chapters it is assumed you have a workspace ready. If you've no clue what we're talking about suggest you follow the [Quick Start Tutorial](/qs/050-start.html) first.
 
 A disclaimer. This wrapping tutorial is about learning to use wrapping bundles inside the OSGi enRoute tool chain, it is not about learning Java, Git, nor Eclipse. It is assumed that you have basic experience with these tools and that you have at least followed the [Quick Start] tutorial.
 

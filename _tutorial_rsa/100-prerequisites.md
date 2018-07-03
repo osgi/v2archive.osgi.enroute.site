@@ -29,5 +29,5 @@ As advised in the [quick start tutorial][qs], you should open an Eclipse workspa
 
 In the tutorial we will use `osgi.enroute.examples.chat` as the workspace name. It is recommended to choose a name that is more logical for yourself.
 
-[qs]: http://enroute.osgi.org/book/200-quick-start.html
-[base]: http://enroute.osgi.org/book/220-tutorial-base.html
+[qs]: /book/200-quick-start.html
+[base]: /book/220-tutorial-base.html

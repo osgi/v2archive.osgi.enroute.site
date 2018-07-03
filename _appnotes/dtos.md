@@ -237,5 +237,5 @@ of developers grew up with objects this requires a paradigm shift that is often 
 [1]: https://osgi.org/javadoc/r6/core/org/osgi/dto/DTO.html
 [2]: https://github.com/osgi/design/blob/master/rfps/rfp-0169-Object-Conversion.pdf
 [3]: https://github.com/osgi/design/blob/master/rfcs/rfc0215/rfc-0215-object-conversion.pdf
-[4]: http://enroute.osgi.org/services/osgi.enroute.dto.api.html
+[4]: /services/osgi.enroute.dto.api.html
 [Maginot]: https://en.wikipedia.org/wiki/Maginot_Line

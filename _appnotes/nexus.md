@@ -362,5 +362,5 @@ snapshot versions from Nexus.
 
 [1]: https://oss.sonatype.org/#view-repositories
 [2]: http://bnd.bndtools.org/instructions/connection-settings.html
-[Base Tutorial]: http://enroute.osgi.org/tutorial_base/050-start.html
+[Base Tutorial]: /tutorial_base/050-start.html
 

@@ -40,7 +40,7 @@ This tutorial will build the following application:
 ![Application in bundles](img/m2e-bundles.png)
 {: width=50%}
 
-You can find more about this form of documenting in the [About OSGi](http://enroute.osgi.org/doc/100-about-osgi) section
+You can find more about this form of documenting in the [About OSGi](/doc/100-about-osgi) section
 
 ## Where
 

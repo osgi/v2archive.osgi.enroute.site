@@ -64,4 +64,4 @@ This specification defines the details for the participants in this event model.
 
 
 
-[scheduler]: http://enroute.osgi.org/services/osgi.enroute.scheduler.api.html
+[scheduler]: /services/osgi.enroute.scheduler.api.html

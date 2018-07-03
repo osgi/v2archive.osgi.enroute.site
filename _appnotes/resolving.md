@@ -148,7 +148,7 @@ A natural repository is the bnd _workspace_ since a workspace is a collection of
 
 ## Resolving in Bndtools
 
-By far the best way to get experience with the resolver is using the bnd's `bndrun` files. Bndtools provides a friendly user interface that makes it easy to use the OSGi Resolver in an interactive way. You can play along with the following explanations by creating an [OSGi enRoute Application project](http://enroute.osgi.org/qs/050-start.html) from the templates.
+By far the best way to get experience with the resolver is using the bnd's `bndrun` files. Bndtools provides a friendly user interface that makes it easy to use the OSGi Resolver in an interactive way. You can play along with the following explanations by creating an [OSGi enRoute Application project](/qs/050-start.html) from the templates.
 
 A `bndrun` describes the runtime configuration for an application. This can either be a standalone executable JAR or an application that should be hosted in a container like a Java EE server or Karaf. In this app note, the target is an executable JAR unless otherwise noted.
 
