@@ -4,8 +4,10 @@
 	{% include head.htm %}
 
 <body>
+    {% if jekyll.environment == 'production' %}
+    {% include gtm-body.html %}
+    {% endif %}
 
-	
 	{% assign prevurl = "" %}
 	{% assign found = false %}
 	

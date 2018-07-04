@@ -4,6 +4,9 @@
 	{% include head.htm %}
 
 <body>
+    {% if jekyll.environment == 'production' %}
+    {% include gtm-body.html %}
+    {% endif %}
 
 	{% for chapter in site.book %}
 		{% if chapter.url == page.url %}

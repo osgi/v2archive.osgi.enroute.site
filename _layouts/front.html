@@ -4,6 +4,9 @@
 {% include head.htm %}
 
 <body>
+    {% if jekyll.environment == 'production' %}
+    {% include gtm-body.html %}
+    {% endif %}
 
 	{% include nav.htm %}
 
