@@ -24,4 +24,4 @@ The OSGi IoT Forum is the place where you can discuss issues and ask questions a
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     
     
-[contest]: /book/650-trains.html
+[contest]: /trains/200-architecture.html

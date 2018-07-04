@@ -1,7 +1,7 @@
 ---
 title: Prerequisites
 layout: tutorial
-lprev: /book/510-tutorial-rsa.html
+lprev: /tutorial_rsa/050-start.html
 lnext: 120-introduction.html
 summary: The prerequisites for the use of OSGi enRoute (Important!)
 ---
@@ -29,5 +29,5 @@ As advised in the [quick start tutorial][qs], you should open an Eclipse workspa
 
 In the tutorial we will use `osgi.enroute.examples.chat` as the workspace name. It is recommended to choose a name that is more logical for yourself.
 
-[qs]: /book/200-quick-start.html
-[base]: /book/220-tutorial-base.html
+[qs]: /qs/050-start.html
+[base]: /tutorial_base/050-start.html

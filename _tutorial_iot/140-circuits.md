@@ -2,7 +2,7 @@
 title: Developing
 layout: tutorial
 lprev: 120-exploring.html
-lnext: /book/500-tutorial-iot.html#End
+lnext: /tutorial_iot/050-start.html#End
 summary: Developing a Java program on the Pi
 ---
 

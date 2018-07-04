@@ -14,4 +14,4 @@ We are planning to move the contest [SDK to a tutorial][1].
 
 
 
-[1]: /book/650-trains.html
+[1]: /trains/200-architecture.html

@@ -36,7 +36,7 @@ The service model of the OSGi IoT Trains SDK is depicted in the following figure
 
 ### Legend
 
-* Yellow triangle — Service. The triangle points to the provider of the service. Listeners connect to the side of the triangle and clients of the service to the straight part. See [services](/book/215-sos.html) 
+* Yellow triangle — Service. The triangle points to the provider of the service. Listeners connect to the side of the triangle and clients of the service to the straight part. See [services](/doc/215-sos.html) 
 * Orange rounded rectangle — Bundle
 * Green Parallelogram — An IO device
 

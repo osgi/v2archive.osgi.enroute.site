@@ -86,6 +86,6 @@ The next setup is the Eclipse works. Please follow the [quick start tutorial][qs
 [pinetw]: https://www.raspberrypi.org/documentation/troubleshooting/hardware/networking/ip-address.md
 [noobs]: https://www.raspberrypi.org/new-raspbian-and-noobs-releases/
 [javapi]: https://www.google.fr/search?q=raspberry+pi+java
-[qs]: /book/200-quick-start.html
-[base]: /book/220-tutorial-base.html
+[qs]: /qs/050-start.html
+[base]: /tutorial_base/050-start.html
 [sunfounder]: http://www.amazon.com/SunFounder-modules-Raspberry-Sensor-Extension/dp/B00HU0G9TO/ref=sr_1_1?ie=UTF8&qid=1434718754&sr=8-1&keywords=raspberry+pi+sensors&pebp=1434718756184&perid=1EEX5GD8E2YX258S7SQ0

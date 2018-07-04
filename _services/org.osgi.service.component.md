@@ -442,4 +442,4 @@ You can find an example application at [OSGi enRoute Example][4].
 [2]: https://github.com/Ivesvdf/flatland/blob/master/oneside_a4.pdf?raw=true
 [3]: /services/org.osgi.service.event.html
 [4]: https://github.com/osgi/osgi.enroute.examples/tree/master/osgi.enroute.examples.component.application
-[5]: /book/218-patterns.html#whiteboard-pattern
+[5]: /doc/218-patterns.html#whiteboard-pattern
