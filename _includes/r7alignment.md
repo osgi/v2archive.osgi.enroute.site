@@ -1,2 +1,0 @@
-The OSGi Alliance has released R7 versions of the OSGi specifications. To coincide with OSGi R7, the OSGi Alliance has created [OSGi enRoute v7](https://enroute.osgi.org/) which is different in many ways from OSGi enRoute v2 archived on this site. This enRoute v2 archive site is kept as a resource for those already using OSGi enRoute v2. If you are new to OSGi enRoute, then please start with the latest [OSGi enRoute](https://enroute.osgi.org/).
-{: .warning}

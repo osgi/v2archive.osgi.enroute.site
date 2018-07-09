@@ -3,8 +3,6 @@ title: Service Catalog
 layout: book
 ---
 
-{% include r7alignment.md %}
-
 This is the OSGi enRoute Base Profile service catalog. The following services are currently available and documented.
 
 <div>
